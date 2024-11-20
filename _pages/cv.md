@@ -17,10 +17,6 @@ Education
 
 Work experience
 ======
-* Spring, 2022/2024: Teaching Assistance
-  * University of Amsterdam, Amsterdam, the Netherlands
-  * Course(s): Information Retrieval 1 (Master's Level Course)
-
 * NOV/2021 - MAR/2023: Thesis Student and Research Assistant
   * ILLC, University of Amsterdam, Amsterdam, the Netherlands
   * Project: Investigating Basic Language Abilities of Pretrained Multimodal Models (Published in EMNLP 2023)
@@ -48,18 +44,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Spring, 2022/2024: Teaching Assistance
+  * University of Amsterdam, Amsterdam, the Netherlands
+  * Course(s): Information Retrieval 1 (Master's Level Course)
+
+
