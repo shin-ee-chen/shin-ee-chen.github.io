@@ -17,3 +17,12 @@ News
 **November 2024**: I’m excited to present my ongoing project on Multimodal Representation Alignment for Othello Game Learning at the [CoAStaL](https://coastalcph.github.io/) group at the University of Copenhagen!
 
 **September 2024**: Our [paper](https://arxiv.org/abs/2406.19999) on evaluating LLM instruction following and reasoning is accepted by EMNLP 2024 findings!
+
+Publications
+============
+**Xinyi Chen**, Baohao Liao, Jirui Qi, Panagiotis Eustratiadis, Christof Monz, Arianna Bisazza, and Maarten de Rijke. 2024. The SIFo Benchmark: Investigating the Sequential Instruction Following Ability of Large Language Models. In Findings of the Association for Computational Linguistics: EMNLP 2024. **(EMNLP 2024 Findings)** [[code](https://github.com/shin-ee-chen/SIFo)]
+
+**Xinyi Chen**, Raquel Fernández, and Sandro Pezzelle. 2023. [The BLA Benchmark: Investigating Basic Language Abilities of Pre-Trained Multimodal Models](https://aclanthology.org/2023.emnlp-main.356/). In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing. **(EMNLP 2023)** [[code](https://github.com/shin-ee-chen/BLA)]
+
+Ivo Verhoeven, **Xinyi Chen**, Qingzhi Hu, and Mario Holubar. (2021). [Replication Study of 'Generative causal explanations of black-box classifiers](https://rescience.github.io/bibliography/Verhoeven_2021.html). Rescience C. [code](https://github.com/shin-ee-chen/Generative-causal-explanations-of-black-box-classifiers)
+
