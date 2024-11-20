@@ -24,5 +24,5 @@ Publications
 
 **Xinyi Chen**, Raquel Fernández, and Sandro Pezzelle. 2023. [The BLA Benchmark: Investigating Basic Language Abilities of Pre-Trained Multimodal Models](https://aclanthology.org/2023.emnlp-main.356/). In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing. **(EMNLP 2023)** [[code](https://github.com/shin-ee-chen/BLA)]
 
-Ivo Verhoeven, **Xinyi Chen**, Qingzhi Hu, and Mario Holubar. (2021). [Replication Study of 'Generative causal explanations of black-box classifiers](https://rescience.github.io/bibliography/Verhoeven_2021.html). Rescience C. [code](https://github.com/shin-ee-chen/Generative-causal-explanations-of-black-box-classifiers)
+Ivo Verhoeven, **Xinyi Chen**, Qingzhi Hu, and Mario Holubar. (2021). [Replication Study of 'Generative causal explanations of black-box classifiers](https://rescience.github.io/bibliography/Verhoeven_2021.html). Rescience C. [[code](https://github.com/shin-ee-chen/Generative-causal-explanations-of-black-box-classifiers)]
 
